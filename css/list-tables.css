@@ -273,3 +273,50 @@ caption {
 
     background-color:darkkhaki;
 }
+
+/*_________________*/
+
+.scroll-bar {
+    overflow-x: auto;
+}
+
+.many-columns tr:hover {
+    box-shadow: 10px 10px 20px rgba(32, 84, 29, 1);
+}
+
+.many-columns td {
+    height: 100px;
+}
+
+.table-image {
+    margin: 0 auto; ;  
+    background-image: url('musk.png')
+}
+
+.table-image th {
+    width: 600px;
+    height: auto;
+}
+
+/*______________________*/
+
+table.GeneratedTable {
+    width: 100%;
+    background-color: #f08bfd;
+  border-collapse: separate;
+    border-width: 10px;
+    border-color: #5be697;
+    border-style: double;
+    color: #001452;
+  }
+  
+  table.GeneratedTable td, table.GeneratedTable th {
+    border-width: 10px;
+    border-color: #5be697;
+    border-style: double;
+    padding: 3px;
+  }
+  
+  table.GeneratedTable thead {
+    background-color: #6afb7b;
+  }
