@@ -320,3 +320,15 @@ table.GeneratedTable {
   table.GeneratedTable thead {
     background-color: #6afb7b;
   }
+
+  /*__________ACCESABILITY_____________*/
+
+  p {
+      font-size: 135%;
+      background-color:rgb(69, 420, 0);
+      color:rgb(255, 0, 0);
+      font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+      font-weight: bold;
+      padding: 2%;
+      margin: 1%;
+  }
